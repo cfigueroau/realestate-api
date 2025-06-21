@@ -20,3 +20,7 @@ Para enfrentarlo:
 	• Podemos optimizar nuestros jobs y evitar pasos innecesarios.
 	• Usar caching para acelerar tiempos de instalación.
 	• Y si el proyecto crece, migrar a runners propios o pagar un plan de GitHub con más minutos.
+
+
+![image](https://github.com/user-attachments/assets/7499e517-c6bc-41b8-8d75-dc0d63065172)
+
